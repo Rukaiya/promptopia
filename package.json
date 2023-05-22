@@ -1,0 +1,17 @@
+{
+  "name": "promptopia",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.2.0",
+    "next-auth": "^4.22.1"
+  }
+}
